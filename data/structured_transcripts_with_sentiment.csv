@@ -1,0 +1,6 @@
+speaker,sentence,sentiment
+Speaker 1,Welcome everyone to today's meeting.,POSITIVE
+Speaker 2,"Thank you, I’m excited to get started.",POSITIVE
+Speaker 1,Let’s discuss the project deadlines.,POSITIVE
+Speaker 2,I’m a bit concerned about the timeline.,POSITIVE
+Speaker 1,"Noted, we will adjust accordingly.",POSITIVE
